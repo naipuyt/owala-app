@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:owala_app/Views/onboarding/components/body.dart';
+import 'package:owala_app/Views/components/body.dart';
 import 'package:owala_app/utils/size_config.dart';
 
 class OnboardingScreen extends StatelessWidget {

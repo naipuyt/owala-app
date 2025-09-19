@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:owala_app/Views/onboarding/components/boarding_content.dart';
+import 'package:owala_app/Views/components/boarding_content.dart';
 import 'package:owala_app/data/onboarding_data.dart';
 import 'package:owala_app/utils/consts.dart';
 
